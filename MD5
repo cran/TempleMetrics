@@ -1,0 +1,15 @@
+5f0c9cdca8edcb1e89d3a52b96ff61f1 *DESCRIPTION
+ef646f3dfd3814a99fbe6a41a70a2335 *NAMESPACE
+be34bad9797c1aca4854099b5d10dab9 *NEWS.md
+3ffd6415f4e136d01eefa5aca17d4512 *R/TempleMetrics.R
+194d2d0e0de79c691c8a8b7e3c314733 *R/data.R
+4cbbe483258e7512f40ee5a4ec4df435 *R/imports.R
+744252340f83b6d40876cc6249836582 *README.md
+5400977a48542535d67b1f5bf22fb9ff *data/igm.rda
+c1d64c6e7754631050c7c504cac1aae9 *man/DR.Rd
+70f3c48049f63775c28f57cdc1216afb *man/Fycondx.Rd
+0bf8e8e44b26d5c1ac180060783e135e *man/TempleMetrics.Rd
+d90055c71e1c12e9d1bf043793e84595 *man/distreg.Rd
+6fb2cd8fb310e8b0e2073847be834348 *man/drs.Rd
+9980f2ac5dbc2434d18021f114f6cd68 *man/drs.inner.Rd
+cd84e22f7f52e631f5387a7be5ae719b *man/igm.Rd
